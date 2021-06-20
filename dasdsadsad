@@ -1,0 +1,67 @@
+[33mcommit 4f293c651e3c2dd006e5a2ed7ff9e96a9a738d84[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Robson Lenza <robson.lenza@midassolutions.com.br>
+Date:   Sun Jun 20 14:44:12 2021 -0300
+
+    alteração 2
+
+[33mcommit 270f327cf869030c22f25f0d2986f10fc6fd64c7[m
+Merge: a7ac073 3565d1f
+Author: Robson Lenza <robson.lenza@midassolutions.com.br>
+Date:   Sun Jun 20 14:39:52 2021 -0300
+
+    alteração 2
+
+[33mcommit a7ac073387b19d960efe6715dea2c0bf31268d41[m
+Author: Robson Lenza <robson.lenza@midassolutions.com.br>
+Date:   Sun Jun 20 14:39:14 2021 -0300
+
+    alteração 2
+
+[33mcommit 3565d1faf3d05a66c836210864e9d2c602ad7fd5[m
+Merge: 97f50d9 5d8538e
+Author: robsonlenza <71108095+robsonlenza@users.noreply.github.com>
+Date:   Sun Jun 20 14:38:26 2021 -0300
+
+    Merge pull request #2 from robsonlenza/master
+    
+    primeira alteração
+
+[33mcommit e6e19d48ebc321aa2c85c7ce3a4ef03b12608dac[m
+Merge: 0c6510a 97f50d9
+Author: Robson Lenza <robson.lenza@midassolutions.com.br>
+Date:   Sun Jun 20 14:37:43 2021 -0300
+
+    alteração main
+
+[33mcommit 0c6510abc1452fd4a53bbc5b637afa7acd052112[m
+Author: Robson Lenza <robson.lenza@midassolutions.com.br>
+Date:   Sun Jun 20 14:34:57 2021 -0300
+
+    primeira alteração
+
+[33mcommit 5d8538e5bb23cf77d0924b10a1b4128b90e56312[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Robson Lenza <robson.lenza@midassolutions.com.br>
+Date:   Sun Jun 20 14:21:05 2021 -0300
+
+    primeira alteração
+
+[33mcommit 97f50d910fb75182eafae03b549c139c5d9aaeb8[m
+Merge: 456970e 71b2553
+Author: robsonlenza <71108095+robsonlenza@users.noreply.github.com>
+Date:   Sun Jun 20 13:29:29 2021 -0300
+
+    Merge pull request #1 from robsonlenza/master
+    
+    primeira pagina
+
+[33mcommit 71b255373d0f4417f436e39e1f3f86e6fcb9de05[m
+Author: Robson Lenza <robson.lenza@midassolutions.com.br>
+Date:   Sun Jun 20 13:22:02 2021 -0300
+
+    primeira pagina
+
+[33mcommit 456970eda6e11036ebbf7314956f4ab252adc807[m
+Author: robsonlenza <71108095+robsonlenza@users.noreply.github.com>
+Date:   Sun Jun 20 13:01:02 2021 -0300
+
+    Initial commit
