@@ -15,5 +15,11 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/robsonlenza/ideia-unica/issues"
+  },
+  "homepage": "https://github.com/robsonlenza/ideia-unica#readme",
+  "dependencies": {
+    "next": "^11.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
